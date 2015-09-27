@@ -1,0 +1,18 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Data Gathering}{2}{chapter.2}
+\contentsline {chapter}{\numberline {3}Face Detection and Face Recognition}{3}{chapter.3}
+\contentsline {section}{\numberline {3.1}Haar Feature-based Cascade Classifier for Object Detection}{3}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Local invariant feature detectors}{3}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Haar classification}{4}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Eigenfaces}{4}{section.3.2}
+\contentsline {section}{\numberline {3.3}Fisherfaces}{5}{section.3.3}
+\contentsline {section}{\numberline {3.4}Local Binary Patterns Histograms}{6}{section.3.4}
+\contentsline {chapter}{\numberline {4}Model Prediction}{8}{chapter.4}
+\contentsline {section}{\numberline {4.1}Classification models}{8}{section.4.1}
+\contentsline {chapter}{\numberline {5}Test and Implementation}{9}{chapter.5}
+\contentsline {section}{\numberline {5.1}Implementation}{9}{section.5.1}
+\contentsline {section}{\numberline {5.2}Evaluation of the results}{10}{section.5.2}
+\contentsline {section}{\numberline {5.3}Guessing and Significance}{10}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Conclusion}{14}{subsection.5.3.1}
+\contentsline {section}{\numberline {5.4}Evaluation of the project}{14}{section.5.4}
+\contentsline {chapter}{\numberline {6}Related and future works}{15}{chapter.6}

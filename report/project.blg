@@ -1,0 +1,82 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: project.aux
+The style file: ieeetr.bst
+Database file #1: bibliography.bib
+Warning--entry type for "thresholding" isn't style-file defined
+--line 22 of file bibliography.bib
+Warning--entry type for "features" isn't style-file defined
+--line 29 of file bibliography.bib
+Warning--entry type for "face-detection-wiki" isn't style-file defined
+--line 36 of file bibliography.bib
+Warning--entry type for "haar-opencv-doc" isn't style-file defined
+--line 43 of file bibliography.bib
+Warning--entry type for "svm-wiki" isn't style-file defined
+--line 57 of file bibliography.bib
+Warning--entry type for "tinderbox" isn't style-file defined
+--line 71 of file bibliography.bib
+Warning--entry type for "facerec-lib" isn't style-file defined
+--line 78 of file bibliography.bib
+Warning--entry type for "flask" isn't style-file defined
+--line 85 of file bibliography.bib
+Warning--entry type for "sqlalchemy" isn't style-file defined
+--line 92 of file bibliography.bib
+Warning--entry type for "sqlite" isn't style-file defined
+--line 99 of file bibliography.bib
+Warning--entry type for "wtforms" isn't style-file defined
+--line 106 of file bibliography.bib
+Warning--entry type for "opencv" isn't style-file defined
+--line 113 of file bibliography.bib
+Warning--entry type for "tinder-api" isn't style-file defined
+--line 120 of file bibliography.bib
+Warning--entry type for "fisherfacec-wiki" isn't style-file defined
+--line 134 of file bibliography.bib
+Warning--entry type for "face-recognition-wiki" isn't style-file defined
+--line 142 of file bibliography.bib
+Warning--entry type for "lbp-scholar" isn't style-file defined
+--line 149 of file bibliography.bib
+Warning--empty journal in reinius2013object
+Warning--empty journal in tripathyreal
+Warning--empty year in tripathyreal
+You've used 30 entries,
+            1876 wiz_defined-function locations,
+            607 strings with 8268 characters,
+and the built_in function-call counts, 6055 in all, are:
+= -- 627
+> -- 151
+< -- 0
++ -- 66
+- -- 36
+* -- 346
+:= -- 749
+add.period$ -- 45
+call.type$ -- 30
+change.case$ -- 30
+chr.to.int$ -- 0
+cite$ -- 33
+duplicate$ -- 293
+empty$ -- 707
+format.name$ -- 36
+if$ -- 1558
+int.to.chr$ -- 0
+int.to.str$ -- 30
+missing$ -- 14
+newline$ -- 109
+num.names$ -- 14
+pop$ -- 183
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 212
+stack$ -- 0
+substring$ -- 340
+swap$ -- 94
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 47
+width$ -- 32
+write$ -- 269
+(There were 19 warnings)

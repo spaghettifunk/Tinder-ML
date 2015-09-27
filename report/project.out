@@ -1,0 +1,18 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Data Gathering}{}% 2
+\BOOKMARK [0][-]{chapter.3}{Face Detection and Face Recognition}{}% 3
+\BOOKMARK [1][-]{section.3.1}{Haar Feature-based Cascade Classifier for Object Detection}{chapter.3}% 4
+\BOOKMARK [2][-]{subsection.3.1.1}{Local invariant feature detectors}{section.3.1}% 5
+\BOOKMARK [2][-]{subsection.3.1.2}{Haar classification}{section.3.1}% 6
+\BOOKMARK [1][-]{section.3.2}{Eigenfaces}{chapter.3}% 7
+\BOOKMARK [1][-]{section.3.3}{Fisherfaces}{chapter.3}% 8
+\BOOKMARK [1][-]{section.3.4}{Local Binary Patterns Histograms}{chapter.3}% 9
+\BOOKMARK [0][-]{chapter.4}{Model Prediction}{}% 10
+\BOOKMARK [1][-]{section.4.1}{Classification models}{chapter.4}% 11
+\BOOKMARK [0][-]{chapter.5}{Test and Implementation}{}% 12
+\BOOKMARK [1][-]{section.5.1}{Implementation}{chapter.5}% 13
+\BOOKMARK [1][-]{section.5.2}{Evaluation of the results}{chapter.5}% 14
+\BOOKMARK [1][-]{section.5.3}{Guessing and Significance}{chapter.5}% 15
+\BOOKMARK [2][-]{subsection.5.3.1}{Conclusion}{section.5.3}% 16
+\BOOKMARK [1][-]{section.5.4}{Evaluation of the project}{chapter.5}% 17
+\BOOKMARK [0][-]{chapter.6}{Related and future works}{}% 18

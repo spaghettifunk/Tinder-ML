@@ -1,0 +1,29 @@
+\section{Introduction}
+
+In this document I'll show you how to implement the Eigenfaces \cite{PT91} and Fisherfaces \cite{belhumeru97} method with \ifx\python\undefined \href{http://www.gnu.org/software/octave/}{GNU Octave}/\href{http://www.mathworks.com}{MATLAB} \else \href{http://www.python.org}{Python}\fi{}, so you'll understand the basics of Face Recognition. All concepts are explained in detail, but a basic knowledge of \ifx\python\undefined \href{http://www.gnu.org/software/octave/}{GNU Octave}/\href{http://www.mathworks.com}{MATLAB} \else \href{http://www.python.org}{Python}\fi{} is assumed. Originally this document was a Guide to Face Recognition with OpenCV. Since \href{http://www.opencv.org}{OpenCV} now comes with the \href{http://docs.opencv.org/trunk/modules/contrib/doc/facerec/facerec_api.html}{cv::FaceRecognizer}, this document has been reworked into the official OpenCV documentation at:
+
+\begin{itemize}
+  \item \href{http://docs.opencv.org/trunk/modules/contrib/doc/facerec/index.html}{http://docs.opencv.org/trunk/modules/contrib/doc/facerec/index.html}
+\end{itemize}
+
+I am doing all this in my spare time and I simply can't maintain two separate documents on the same topic any more. So I have decided to turn this document into a guide on Face Recognition with \ifx\python\undefined \href{http://www.gnu.org/software/octave/}{GNU Octave}/\href{http://www.mathworks.com}{MATLAB} \else \href{http://www.python.org}{Python}\fi{} only. You'll find the very detailed documentation on the OpenCV \href{http://docs.opencv.org/trunk/modules/contrib/doc/facerec/facerec_api.html}{cv::FaceRecognizer} at:
+
+\begin{itemize}
+  \item \href{http://docs.opencv.org/trunk/modules/contrib/doc/facerec/index.html}{FaceRecognizer - Face Recognition with OpenCV}
+  \begin{itemize}
+    \item \href{http://docs.opencv.org/trunk/modules/contrib/doc/facerec/facerec_api.html}{FaceRecognizer API}
+    \item \href{http://docs.opencv.org/trunk/modules/contrib/doc/facerec/facerec_tutorial.html}{Guide to Face Recognition with OpenCV}
+    \item \href{http://docs.opencv.org/trunk/modules/contrib/doc/facerec/tutorial/facerec_gender_classification.html}{Tutorial on Gender Classification}
+    \item \href{http://docs.opencv.org/trunk/modules/contrib/doc/facerec/tutorial/facerec_video_recognition.html}{Tutorial on Face Recognition in Videos}
+    \item \href{http://docs.opencv.org/trunk/modules/contrib/doc/facerec/tutorial/facerec_save_load.html}{Tutorial On Saving \& Loading a FaceRecognizer}
+  \end{itemize}
+\end{itemize}
+
+By the way you don't need to copy and paste the code snippets, all code has been pushed into my github repository:
+
+\begin{itemize}
+  \item \href{http://www.github.com/bytefish}{github.com/bytefish}
+  \item \href{http://www.github.com/bytefish/facerecognition_guide}{github.com/bytefish/facerecognition\_guide}
+\end{itemize}
+
+Everything in here is released under a \href{http://www.opensource.org/licenses/bsd-license}{BSD license}, so feel free to use it for your projects. You are currently reading the \ifx\python\undefined \href{http://www.gnu.org/software/octave/}{GNU Octave}/\href{http://www.mathworks.com}{MATLAB} \else \href{http://www.python.org}{Python}\fi{} version of the Face Recognition Guide, you can compile the \ifx\python\undefined \href{http://www.python.org}{Python} \else \href{http://www.gnu.org/software/octave/}{GNU Octave}/\href{http://www.mathworks.com}{MATLAB}\fi{} version with \ifx\python\undefined \lstinline|make python| \else \lstinline|make octave|\fi{}.
